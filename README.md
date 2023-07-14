@@ -6,7 +6,7 @@ My advent of code solutions
 | AoC 2015   | AoC 2016   | AoC 2017   | AoC 2018   | AoC 2019   | AoC 2020   | AoC 2021   | AoC 2022   |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | ✅ Day 1   | 🔴 Day 1   | 🔴 Day 1   | 🔴 Day 1   | 🔴 Day 1   | 🔴 Day 1   | 🔴 Day 1   | 🔴 Day 1   |
-| 🔴 Day 2   | 🔴 Day 2   | 🔴 Day 2   | 🔴 Day 2   | 🔴 Day 2   | 🔴 Day 2   | 🔴 Day 2   | 🔴 Day 2   |
+| ✅ Day 2   | 🔴 Day 2   | 🔴 Day 2   | 🔴 Day 2   | 🔴 Day 2   | 🔴 Day 2   | 🔴 Day 2   | 🔴 Day 2   |
 | 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   |
 | 🔴 Day 4   | 🔴 Day 4   | 🔴 Day 4   | 🔴 Day 4   | 🔴 Day 4   | 🔴 Day 4   | 🔴 Day 4   | 🔴 Day 4   |
 | 🔴 Day 5   | 🔴 Day 5   | 🔴 Day 5   | 🔴 Day 5   | 🔴 Day 5   | 🔴 Day 5   | 🔴 Day 5   | 🔴 Day 5   |
