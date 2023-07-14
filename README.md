@@ -1,46 +1,37 @@
 # Advent of Code
-Advent of code solutions
+My advent of code solutions
+> `Still learning!`
 
 ## Progress
-| List 1        | List 2        | List 3        | List 4        | List 5        |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| - [ ] Item 1  | - [ ] Item 1  | - [ ] Item 1  | - [ ] Item 1  | - [ ] Item 1  |
-| - [ ] Item 2  | - [ ] Item 2  | - [ ] Item 2  | - [ ] Item 2  | - [ ] Item 2  |
-| - [ ] Item 3  | - [ ] Item 3  | - [ ] Item 3  | - [ ] Item 3  | - [ ] Item 3  |
-| - [ ] Item 4  | - [ ] Item 4  | - [ ] Item 4  | - [ ] Item 4  | - [ ] Item 4  |
-| - [ ] Item 5  | - [ ] Item 5  | - [ ] Item 5  | - [ ] Item 5  | - [ ] Item 5  |
-| - [ ] Item 6  | - [ ] Item 6  | - [ ] Item 6  | - [ ] Item 6  | - [ ] Item 6  |
-| - [ ] Item 7  | - [ ] Item 7  | - [ ] Item 7  | - [ ] Item 7  | - [ ] Item 7  |
-| - [ ] Item 8  | - [ ] Item 8  | - [ ] Item 8  | - [ ] Item 8  | - [ ] Item 8  |
-| - [ ] Item 9  | - [ ] Item 9  | - [ ] Item 9  | - [ ] Item 9  | - [ ] Item 9  |
-| - [ ] Item 10 | - [ ] Item 10 | - [ ] Item 10 | - [ ] Item 10 | - [ ] Item 10 |
-| - [ ] Item 11 | - [ ] Item 11 | - [ ] Item 11 | - [ ] Item 11 | - [ ] Item 11 |
-| - [ ] Item 12 | - [ ] Item 12 | - [ ] Item 12 | - [ ] Item 12 | - [ ] Item 12 |
-| - [ ] Item 13 | - [ ] Item 13 | - [ ] Item 13 | - [ ] Item 13 | - [ ] Item 13 |
-| - [ ] Item 14 | - [ ] Item 14 | - [ ] Item 14 | - [ ] Item 14 | - [ ] Item 14 |
-| - [ ] Item 15 | - [ ] Item 15 | - [ ] Item 15 | - [ ] Item 15 | - [ ] Item 15 |
-| - [ ] Item 16 | - [ ] Item 16 | - [ ] Item 16 | - [ ] Item 16 | - [ ] Item 16 |
-| - [ ] Item 17 | - [ ] Item 17 | - [ ] Item 17 | - [ ] Item 17 | - [ ] Item 17 |
-| - [ ] Item 18 | - [ ] Item 18 | - [ ] Item 18 | - [ ] Item 18 | - [ ] Item 18 |
-| - [ ] Item 19 | - [ ] Item 19 | - [ ] Item 19 | - [ ] Item 19 | - [ ] Item 19 |
-| - [ ] Item 20 | - [ ] Item 20 | - [ ] Item 20 | - [ ] Item 20 | - [ ] Item 20 |
-| - [ ] Item 21 | - [ ] Item 21 | - [ ] Item 21 | - [ ] Item 21 | - [ ] Item 21 |
-| - [ ] Item 22 | - [ ] Item 22 | - [ ] Item 22 | - [ ] Item 22 | - [ ] Item 22 |
-| - [ ] Item 23 | - [ ] Item 23 | - [ ] Item 23 | - [ ] Item 23 | - [ ] Item 23 |
-| - [ ] Item 24 | - [ ] Item 24 | - [ ] Item 24 | - [ ] Item 24 | - [ ] Item 24 |
-| - [ ] Item 25 | - [ ] Item 25 | - [ ] Item 25 | - [ ] Item 25 | - [ ] Item 25 |
+| AoC 2015   | AoC 2016   | AoC 2017   | AoC 2018   | AoC 2019   | AoC 2020   | AoC 2021   | AoC 2022   |
+| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| 🔴 Day 1   | 🔴 Day 1   | 🔴 Day 1   | 🔴 Day 1   | 🔴 Day 1   | 🔴 Day 1   | 🔴 Day 1   | 🔴 Day 1   |
+| 🔴 Day 2   | 🔴 Day 2   | 🔴 Day 2   | 🔴 Day 2   | 🔴 Day 2   | 🔴 Day 2   | 🔴 Day 2   | 🔴 Day 2   |
+| 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   |
+| 🔴 Day 4   | 🔴 Day 4   | 🔴 Day 4   | 🔴 Day 4   | 🔴 Day 4   | 🔴 Day 4   | 🔴 Day 4   | 🔴 Day 4   |
+| 🔴 Day 5   | 🔴 Day 5   | 🔴 Day 5   | 🔴 Day 5   | 🔴 Day 5   | 🔴 Day 5   | 🔴 Day 5   | 🔴 Day 5   |
+| 🔴 Day 6   | 🔴 Day 6   | 🔴 Day 6   | 🔴 Day 6   | 🔴 Day 6   | 🔴 Day 6   | 🔴 Day 6   | 🔴 Day 6   |
+| 🔴 Day 7   | 🔴 Day 7   | 🔴 Day 7   | 🔴 Day 7   | 🔴 Day 7   | 🔴 Day 7   | 🔴 Day 7   | 🔴 Day 7   |
+| 🔴 Day 8   | 🔴 Day 8   | 🔴 Day 8   | 🔴 Day 8   | 🔴 Day 8   | 🔴 Day 8   | 🔴 Day 8   | 🔴 Day 8   |
+| 🔴 Day 9   | 🔴 Day 9   | 🔴 Day 9   | 🔴 Day 9   | 🔴 Day 9   | 🔴 Day 9   | 🔴 Day 9   | 🔴 Day 9   |
+| 🔴 Day 10  | 🔴 Day 10  | 🔴 Day 10  | 🔴 Day 10  | 🔴 Day 10  | 🔴 Day 10  | 🔴 Day 10  | 🔴 Day 10  |
+| 🔴 Day 11  | 🔴 Day 11  | 🔴 Day 11  | 🔴 Day 11  | 🔴 Day 11  | 🔴 Day 11  | 🔴 Day 11  | 🔴 Day 11  |
+| 🔴 Day 12  | 🔴 Day 12  | 🔴 Day 12  | 🔴 Day 12  | 🔴 Day 12  | 🔴 Day 12  | 🔴 Day 12  | 🔴 Day 12  |
+| 🔴 Day 13  | 🔴 Day 13  | 🔴 Day 13  | 🔴 Day 13  | 🔴 Day 13  | 🔴 Day 13  | 🔴 Day 13  | 🔴 Day 13  |
+| 🔴 Day 14  | 🔴 Day 14  | 🔴 Day 14  | 🔴 Day 14  | 🔴 Day 14  | 🔴 Day 14  | 🔴 Day 14  | 🔴 Day 14  |
+| 🔴 Day 15  | 🔴 Day 15  | 🔴 Day 15  | 🔴 Day 15  | 🔴 Day 15  | 🔴 Day 15  | 🔴 Day 15  | 🔴 Day 15  |
+| 🔴 Day 16  | 🔴 Day 16  | 🔴 Day 16  | 🔴 Day 16  | 🔴 Day 16  | 🔴 Day 16  | 🔴 Day 16  | 🔴 Day 16  |
+| 🔴 Day 17  | 🔴 Day 17  | 🔴 Day 17  | 🔴 Day 17  | 🔴 Day 17  | 🔴 Day 17  | 🔴 Day 17  | 🔴 Day 17  |
+| 🔴 Day 18  | 🔴 Day 18  | 🔴 Day 18  | 🔴 Day 18  | 🔴 Day 18  | 🔴 Day 18  | 🔴 Day 18  | 🔴 Day 18  |
+| 🔴 Day 19  | 🔴 Day 19  | 🔴 Day 19  | 🔴 Day 19  | 🔴 Day 19  | 🔴 Day 19  | 🔴 Day 19  | 🔴 Day 19  |
+| 🔴 Day 20  | 🔴 Day 20  | 🔴 Day 20  | 🔴 Day 20  | 🔴 Day 20  | 🔴 Day 20  | 🔴 Day 20  | 🔴 Day 20  |
+| 🔴 Day 21  | 🔴 Day 21  | 🔴 Day 21  | 🔴 Day 21  | 🔴 Day 21  | 🔴 Day 21  | 🔴 Day 21  | 🔴 Day 21  |
+| 🔴 Day 22  | 🔴 Day 22  | 🔴 Day 22  | 🔴 Day 22  | 🔴 Day 22  | 🔴 Day 22  | 🔴 Day 22  | 🔴 Day 22  |
+| 🔴 Day 23  | 🔴 Day 23  | 🔴 Day 23  | 🔴 Day 23  | 🔴 Day 23  | 🔴 Day 23  | 🔴 Day 23  | 🔴 Day 23  |
+| 🔴 Day 24  | 🔴 Day 24  | 🔴 Day 24  | 🔴 Day 24  | 🔴 Day 24  | 🔴 Day 24  | 🔴 Day 24  | 🔴 Day 24  |
+| 🔴 Day 25  | 🔴 Day 25  | 🔴 Day 25  | 🔴 Day 25  | 🔴 Day 25  | 🔴 Day 25  | 🔴 Day 25  | 🔴 Day 25  |
 
-- [ ] #2
-
-- [ ] \https://github.com/CallMeQwerty/advent-of-code/issues/2
- 
-- Test
-- test
-```
-* Test
-```
-
-## TBD
+## Links
 - `2015` [Advent of Code 2015](https://adventofcode.com/2015)
 - `2016` [Advent of Code 2016](https://adventofcode.com/2016)
 - `2017` [Advent of Code 2017](https://adventofcode.com/2017)
