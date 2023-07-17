@@ -7,7 +7,7 @@ My advent of code solutions
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | ✅ Day 1   | 🔴 Day 1   | 🔴 Day 1   | 🔴 Day 1   | 🔴 Day 1   | 🔴 Day 1   | 🔴 Day 1   | 🔴 Day 1   |
 | ✅ Day 2   | 🔴 Day 2   | 🔴 Day 2   | 🔴 Day 2   | 🔴 Day 2   | 🔴 Day 2   | 🔴 Day 2   | 🔴 Day 2   |
-| 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   |
+| ✅ Day 3   | 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   | 🔴 Day 3   |
 | 🔴 Day 4   | 🔴 Day 4   | 🔴 Day 4   | 🔴 Day 4   | 🔴 Day 4   | 🔴 Day 4   | 🔴 Day 4   | 🔴 Day 4   |
 | 🔴 Day 5   | 🔴 Day 5   | 🔴 Day 5   | 🔴 Day 5   | 🔴 Day 5   | 🔴 Day 5   | 🔴 Day 5   | 🔴 Day 5   |
 | 🔴 Day 6   | 🔴 Day 6   | 🔴 Day 6   | 🔴 Day 6   | 🔴 Day 6   | 🔴 Day 6   | 🔴 Day 6   | 🔴 Day 6   |
@@ -32,11 +32,11 @@ My advent of code solutions
 | 🔴 Day 25  | 🔴 Day 25  | 🔴 Day 25  | 🔴 Day 25  | 🔴 Day 25  | 🔴 Day 25  | 🔴 Day 25  | 🔴 Day 25  |
 
 ## Links
-- `2015` [Advent of Code 2015](https://adventofcode.com/2015)
-- `2016` [Advent of Code 2016](https://adventofcode.com/2016)
-- `2017` [Advent of Code 2017](https://adventofcode.com/2017)
-- `2018` [Advent of Code 2018](https://adventofcode.com/2018)
-- `2019` [Advent of Code 2019](https://adventofcode.com/2019)
-- `2020` [Advent of Code 2020](https://adventofcode.com/2020)
-- `2021` [Advent of Code 2021](https://adventofcode.com/2021)
-- `2022` [Advent of Code 2022](https://adventofcode.com/2022)
+- `2015` [Advent of Code 2015](https://adventofcode.com/2015) | `Solutions` [Reddit](https://www.reddit.com/r/adventofcode/wiki/archives/solution_megathreads/2015/)
+- `2016` [Advent of Code 2016](https://adventofcode.com/2016) | `Solutions` [Reddit](https://www.reddit.com/r/adventofcode/wiki/archives/solution_megathreads/2016/)
+- `2017` [Advent of Code 2017](https://adventofcode.com/2017) | `Solutions` [Reddit](https://www.reddit.com/r/adventofcode/wiki/archives/solution_megathreads/2017/)
+- `2018` [Advent of Code 2018](https://adventofcode.com/2018) | `Solutions` [Reddit](https://www.reddit.com/r/adventofcode/wiki/archives/solution_megathreads/2018/)
+- `2019` [Advent of Code 2019](https://adventofcode.com/2019) | `Solutions` [Reddit](https://www.reddit.com/r/adventofcode/wiki/archives/solution_megathreads/2019/)
+- `2020` [Advent of Code 2020](https://adventofcode.com/2020) | `Solutions` [Reddit](https://www.reddit.com/r/adventofcode/wiki/archives/solution_megathreads/2020/)
+- `2021` [Advent of Code 2021](https://adventofcode.com/2021) | `Solutions` [Reddit](https://www.reddit.com/r/adventofcode/wiki/archives/solution_megathreads/2021/)
+- `2022` [Advent of Code 2022](https://adventofcode.com/2022) | `Solutions` [Reddit](https://www.reddit.com/r/adventofcode/wiki/archives/solution_megathreads/2022/)
