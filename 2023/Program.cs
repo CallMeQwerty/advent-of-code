@@ -9,6 +9,6 @@ class Program
         int selectedDay = int.Parse(Console.ReadLine());
 
         SolveService solveService = new SolveService(selectedDay);
-        await solveService.Solve();
+        solveService.Solve();
     }
 }

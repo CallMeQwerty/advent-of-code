@@ -23,9 +23,9 @@ namespace AoC23
             return (ISolution)Activator.CreateInstance(type);
         }
 
-        public async Task Solve()
+        public void Solve()
         {
-            await currentDaySolution.Solve();
+            currentDaySolution.Solve();
         }
     }
 }
