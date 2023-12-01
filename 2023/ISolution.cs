@@ -8,6 +8,6 @@ namespace AoC23
 {
     internal interface ISolution
     {
-        Task Solve();
+        public void Solve();
     }
 }
