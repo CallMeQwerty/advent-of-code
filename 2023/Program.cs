@@ -5,10 +5,20 @@ class Program
 {
     static async Task Main(string[] args)
     {
-        Console.WriteLine("I want to solve Day: ");
-        int selectedDay = int.Parse(Console.ReadLine());
+        Console.WriteLine("Welcome to my AoC23 solution. Enter 0 to Quit\n");
+        int selectedDay;
 
-        SolveService solveService = new SolveService(selectedDay);
-        solveService.Solve();
+        do
+        {
+            Console.Write("I want to solve Day: ");            
+                        
+            if (!int.TryParse(Console.ReadLine(), out selectedDay) || selectedDay <= 0 || selectedDay >= 25) { break; }
+            
+            SolveService solveService = new SolveService(selectedDay);
+            solveService.Solve();
+
+            Console.WriteLine();
+            
+        } while (selectedDay != 0);       
     }
 }
